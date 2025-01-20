@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a basic practice to make a basic website for recipes, and at the end of this project I will try to demonstrate the basic understanding I have learn about HTML, Git, and GitHub.
