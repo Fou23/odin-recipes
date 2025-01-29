@@ -1,0 +1,68 @@
+h1 {
+
+    text-align: center;
+
+    color: red;
+
+    background-color: rgb(211, 137, 137);
+
+    font-size: 50px;
+}
+
+a {
+
+    font-size: 30px;
+}
+
+img {
+
+    border-radius: 50px;
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+h2,
+h3,
+h4 {
+
+    text-align: center;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    font-weight: bolder;
+
+    font-size: 32px;
+
+    color: rgb(60, 136, 60);
+}
+
+.para {
+
+    text-align: center;
+
+    font-weight: bold;
+
+    font-size: 20px;
+
+    
+}
+
+* {
+
+    background-color: rgb(200, 227, 200);
+
+    border-radius: 30px;
+
+}
+
+ul,
+
+ol{
+
+    line-height: 2;
+
+
+}
